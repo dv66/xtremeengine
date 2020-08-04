@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="je-7.4.51">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../database_project_kits/je-7.4.5/lib/je-7.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
